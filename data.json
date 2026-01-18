@@ -1,0 +1,11 @@
+{
+  "name": "aura-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "sharp": "^0.32.0",
+    "form-data": "^4.0.0",
+    "fs-extra": "^11.1.0"
+  }
+}
