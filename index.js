@@ -8,7 +8,7 @@ const CONFIG = {
     fbPageId: process.env.FB_PAGE_ID,
     fbToken: process.env.FB_TOKEN,
     outscraperKey: process.env.OUTSCRAPER_KEY,
-    fbPageUrl: 'https://www.facebook.com/profile.php?id=61568483470932', // Your test URL
+    fbPageUrl: 'https://www.facebook.com/profile.php?id=61583466142087', // Your test URL
     dataPath: './data.json'
 };
 
